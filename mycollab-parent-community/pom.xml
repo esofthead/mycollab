@@ -20,7 +20,7 @@
     <properties>
         <java.version>1.8</java.version>
         <slf4j.version>1.7.25</slf4j.version>
-        <vaadin.version>8.8.5</vaadin.version>
+        <vaadin.version>8.14.1</vaadin.version>
         <mysql.version>8.0.15</mysql.version>
         <jackson.version>2.9.8</jackson.version>
         <kotlin.version>1.3.40</kotlin.version>
